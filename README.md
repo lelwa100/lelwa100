@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-💖 Junior Full Stack Developer  🇿🇦
+💖 Junior Full Stack Developer 
 </h3>
 
 <p align="center">
